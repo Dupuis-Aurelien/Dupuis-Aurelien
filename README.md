@@ -1,5 +1,11 @@
-### Hi there 👋
+Bienvenue sur mon Github.
+
+Je suis Dupuis Aurélien et je suis fraîchement diplômé du diplôme de Développeur Web et Web Mobile.
+
+J'habite sur Fréjus dans le Var (83) et je suis à la recherche de mes premières missions professionnelle.
+
 ![Cover](https://raw.githubusercontent.com/Dupuis-Aurelien/Dupuis-Aurelien/main/integration-1777536_1920.jpg)
+
 
 <!--
 **Dupuis-Aurelien/Dupuis-Aurelien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

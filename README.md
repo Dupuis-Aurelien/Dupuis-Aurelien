@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Cover](https://raw.githubusercontent.com/Dupuis-Aurelien/Dupuis-Aurelien/main/integration-1777536_1920.jpg)
 
 <!--
 **Dupuis-Aurelien/Dupuis-Aurelien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

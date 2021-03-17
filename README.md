@@ -4,6 +4,8 @@ Je suis Dupuis Aurélien et je suis fraîchement diplômé du diplôme de Dével
 
 J'habite sur Fréjus dans le Var (83) et je suis à la recherche de mes premières missions professionnelle.
 
+https://dupuis-aurelien.github.io/portfolio-version-2/PORTFOLIO-Dupuis-Aurelien.html
+
 ![Cover](https://raw.githubusercontent.com/Dupuis-Aurelien/Dupuis-Aurelien/main/integration-1777536_1920.jpg)
 
 
